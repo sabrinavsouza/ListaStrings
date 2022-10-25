@@ -12,7 +12,7 @@ AUTORES: Sabrina Velasque de Souza
 
 Avaliação:
 
-No geral tivem pouca dificuldade em realizar os excercicios.
+No geral tive pouca dificuldade em realizar os excercicios.
 Utilizei o material da professora em grande parte, e algumas coisas como os métodos .replace() e startsWith() da classe String pesquisei na internet para entender um pouco mais da funcionalidade e assim aplicar da melhor forma nos códigos.
 Por fim, acredito que esses exercicios auxiliaram muito para fixação do conteúdo estudado em aula.
 
